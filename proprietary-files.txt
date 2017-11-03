@@ -274,7 +274,6 @@ vendor/lib/libjpegdmahw.so
 vendor/lib/libCB.so
 vendor/lib/libqmi.so
 vendor/lib/libqdi.so
-vendor/etc/sensors/hals.conf
 vendor/etc/perf-profile5.conf
 vendor/etc/perf-profile4.conf
 vendor/etc/msm_irqbalance.conf
@@ -511,7 +510,6 @@ lib/libOmxVpp.so
 lib/libtfa98xx.so
 lib/libmm-qcamera.so
 lib/libqomx_core.so
-etc/sensors/sensor_def_qcomdev.conf
 etc/acdbdata/Fluid/Fluid_Global_cal.acdb
 etc/acdbdata/Fluid/Fluid_Hdmi_cal.acdb
 etc/acdbdata/Fluid/Fluid_General_cal.acdb
