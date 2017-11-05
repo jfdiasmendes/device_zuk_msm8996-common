@@ -23,6 +23,7 @@ ro.qc.sdk.audio.fluencetype=fluence
 ro.qc.sdk.audio.ssr=false
 tunnel.audio.encode=false
 use.voice.path.for.pcm.voip=true
+qcom.hw.aac.encoder=true
 
 # Bluetooth
 bt.max.hfpclient.connections=1
@@ -75,15 +76,7 @@ persist.gps.qc_nlp_in_use=1
 persist.loc.nlp_name=com.qualcomm.location
 ro.gps.agps_provider=1
 
-# Hdmi
-qcom.hw.aac.encoder=true
-
 # Media
-flac.sw.decoder.24bit.support=true
-media.aac_51_output_enabled=true
-mm.enable.smoothstreaming=true
-use.qti.sw.alac.decoder=true
-use.qti.sw.ape.decoder=true
 persist.media.treble_omx=false
 
 # NITZ
