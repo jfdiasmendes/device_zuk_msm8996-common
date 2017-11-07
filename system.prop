@@ -39,6 +39,9 @@ persist.data.netmgrd.qos.enable=true
 ro.use_data_netmgrd=true
 persist.data.iwlan.enable=true
 
+# Define hardware
+ro.hardware=qcom
+
 # Device was launched with M
 ro.product.first_api_level=23
 
