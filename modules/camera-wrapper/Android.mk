@@ -16,7 +16,10 @@ LOCAL_SHARED_LIBRARIES := \
     libutils \
     libcutils \
     android.hidl.token@1.0-utils \
-    android.hardware.graphics.bufferqueue@1.0
+    android.hardware.graphics.bufferqueue@1.0 \
+    libnativewindow
+
+LOCAL_HEADER_LIBRARIES := libnativebase_headers
 
 LOCAL_C_INCLUDES += \
     system/core/include \
